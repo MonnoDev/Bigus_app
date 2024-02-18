@@ -1,70 +1,16 @@
-# Getting Started with Create React App
+# Bigus app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This app is designed for construction companies to manage project data. You can add, edit, and delete projects, as well as register and login.
 
-## Available Scripts
+It's built with React for the frontend and a simple Node.js database. To use it, set up a .env file with the PORT variable for the server port and ensure you have a db.json file configured. The db.json file serves as the database.
 
-In the project directory, you can run:
+![Register](https://github.com/MonnoDev/Bigus_app/assets/121252311/72344d1b-aea8-4a6b-9556-fc252f30e247)
+![login](https://github.com/MonnoDev/Bigus_app/assets/121252311/5d670371-7a75-4e71-abec-3c6edfb08bce)
+![Main page](https://github.com/MonnoDev/Bigus_app/assets/121252311/e89eba8c-5e8d-47bb-afae-5a510533f669)
+![Projets ](https://github.com/MonnoDev/Bigus_app/assets/121252311/b30a3bcd-7fdc-4a49-a366-803aa43ed653)
+![New project](https://github.com/MonnoDev/Bigus_app/assets/121252311/45184b2d-75ce-4476-9cea-69bd355e5083)
+![Proeject overview ](https://github.com/MonnoDev/Bigus_app/assets/121252311/ed264c00-c29a-48df-bc3f-149f9b651277)
+![edit project](https://github.com/MonnoDev/Bigus_app/assets/121252311/092318c1-5dca-4ebb-a44a-9625ff56ec57)
+![profileee](https://github.com/MonnoDev/Bigus_app/assets/121252311/fd3bc2c2-2ded-4c75-8abe-f03fa50977d9)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
