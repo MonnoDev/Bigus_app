@@ -4,6 +4,8 @@ This app is designed for construction companies to manage project data. You can 
 
 It's built with React for the frontend and a simple Node.js database. To use it, set up a .env file with the PORT variable for the server port and ensure you have a db.json file configured. The db.json file serves as the database.
 
+Once configured, simply run npm install to install the necessary dependencies.
+
 ![Register](https://github.com/MonnoDev/Bigus_app/assets/121252311/72344d1b-aea8-4a6b-9556-fc252f30e247)
 ![login](https://github.com/MonnoDev/Bigus_app/assets/121252311/5d670371-7a75-4e71-abec-3c6edfb08bce)
 ![Main page](https://github.com/MonnoDev/Bigus_app/assets/121252311/e89eba8c-5e8d-47bb-afae-5a510533f669)
